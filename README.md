@@ -12,4 +12,4 @@
 `pip install -r requirements.txt`
 
 # Práctico Nro 1
-Archivo `01-practico-avd-2020.ipynbs`
+Archivo `01-practico-avd-2020.ipynb`
