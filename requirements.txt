@@ -1,7 +1,7 @@
 appnope==0.1.0
 attrs==19.3.0
 backcall==0.1.0
-basemap @ https://github.com/matplotlib/basemap/archive/master.zip
+basemap==1.2.1
 bleach==3.1.5
 certifi==2020.4.5.1
 chardet==3.0.4
@@ -10,7 +10,7 @@ decorator==4.4.2
 defusedxml==0.6.0
 entrypoints==0.3
 feedparser==5.2.1
-ftfy==5.5.1
+ftfy==5.7
 idna==2.9
 importlib-metadata==1.6.0
 ipykernel==5.2.1
