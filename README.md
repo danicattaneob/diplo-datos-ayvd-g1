@@ -12,7 +12,7 @@
 # Aprendizaje Supervisado
 Dentro de directorio `4_aprendizaje_supervisado`
 
-* *file TBD*
+* `to_run_our_best_submission.ipynb`
 
 # Análisis y Curación de Datos - 2020
 Dentro del directorio `2_analisis_y_curacion_de_datos`
