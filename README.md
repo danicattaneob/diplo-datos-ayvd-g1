@@ -9,6 +9,14 @@
 # Instalacion de dependencias
 `pip install -r requirements.txt`
 
+# Aprendizaje No Supervisado
+Dentro del directorio `5_aprendizaje_no_supervisado`
+
+* `data2020`
+* `ntb_clustering_1_fifa_2020.ipynb`
+* `ntb_clustering_2_fifa_2020.ipynb`
+* `ntb_embedings_fifa_2020.ipynb`
+
 # Aprendizaje Supervisado
 Dentro de directorio `4_aprendizaje_supervisado`
 
